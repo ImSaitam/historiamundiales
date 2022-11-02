@@ -358,6 +358,57 @@ a {
 	margin: 0 auto;
 }
 
+.sobremi {
+	width: 1400px;
+	height: 700px;
+	background-color: rgb(220, 220, 220, 0.5);
+	margin-left: 18.6%;
+	margin-top: 5.6%;
+	border-radius: 1em;
+	transition: 0.4s linear;
+}
+
+.sobremi:hover {
+	background-color: rgb(220, 220, 220, 1);
+	transition: 0.4s linear;
+}
+
+.sobremi #messi {
+	margin-top: 0%;
+	float: left;
+	width: 30%;
+	margin-left: 1%;
+	margin-top: 1%;
+	padding-right: 1.4em;
+	transition: 0.4s ease-out;
+}
+
+#messi:hover {
+	width: 60%;
+	border-radius: 1em;
+	transition: 0.4s ease-in;
+}
+
+.texto-sobremi p{
+	font-size: 1.4em;
+	padding-top: 0.5em;
+	margin-left: 1em;
+	margin-right: 0.7em;
+	color: #000000;
+	text-align: justify;
+}
+
+.ig {
+	width: 2%;
+	margin-top: 22%;
+	margin-left: 1%;
+}
+
+.mail {
+	width: 2%;
+}
+
+
 /* Slideshow container */
 .slideshow-container {
 	max-width: 1000px;

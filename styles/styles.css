@@ -21,6 +21,10 @@
 		top: 0;left: 0;
 	}
 
+	.mySlides img {
+		width: 795px;
+		height: 530px;
+	}
 /*Estilos para el encabezado*/
 	.header{
 		width: 100%;

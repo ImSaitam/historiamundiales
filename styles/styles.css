@@ -413,6 +413,13 @@ a {
 	width: 2%;
 }
 
+.marca-agua {
+	position: fixed;
+	margin-left: 92%;
+	margin-top: 39%;
+	opacity: 0.3;
+}
+
 /* Slideshow container */
 .slideshow-container {
 	max-width: 1000px;
